@@ -1,0 +1,28 @@
+{
+  "application.js": "/packs/js/application-f4bd66807d9163ec80ca.js",
+  "application.js.map": "/packs/js/application-f4bd66807d9163ec80ca.js.map",
+  "entrypoints": {
+    "application": {
+      "js": [
+        "/packs/js/application-f4bd66807d9163ec80ca.js"
+      ],
+      "js.map": [
+        "/packs/js/application-f4bd66807d9163ec80ca.js.map"
+      ]
+    },
+    "test": {
+      "js": [
+        "/packs/js/test-ce4b1bf949fbee714b5c.js"
+      ],
+      "js.map": [
+        "/packs/js/test-ce4b1bf949fbee714b5c.js.map"
+      ]
+    }
+  },
+  "media/webfonts/fa-regular-400.ttf": "/packs/media/webfonts/fa-regular-400-20206738.ttf",
+  "media/webfonts/fa-regular-400.woff2": "/packs/media/webfonts/fa-regular-400-61f30b79.woff2",
+  "media/webfonts/fa-solid-900.ttf": "/packs/media/webfonts/fa-solid-900-e2ceb839.ttf",
+  "media/webfonts/fa-solid-900.woff2": "/packs/media/webfonts/fa-solid-900-c6427838.woff2",
+  "test.js": "/packs/js/test-ce4b1bf949fbee714b5c.js",
+  "test.js.map": "/packs/js/test-ce4b1bf949fbee714b5c.js.map"
+}
